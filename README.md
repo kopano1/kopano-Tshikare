@@ -1,7 +1,7 @@
-- Hi, I’m @kopano1
-- I’m interested in data analytics data science...
+- Hi, I’m Kopano Tshikare
+- I’m interested in web development and data analytics...
 - I’m currently learning software engineering at Eduvos...
-- I’m looking to enhance my portfolio and specialize in data analytics
+- I’m looking to enhance my portfolio and specialize in web development data analytics
 - Email: kopanovc@gmail.com
 
 
